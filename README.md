@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Badge](https://cp-logo.vercel.app/atcoder/tottan)]
+(https://www.codechef.com/users/tottan)
 ## ピッピカチュー！
 
 <!--
